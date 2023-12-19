@@ -1,0 +1,9 @@
+kendra@usc.edu/Kendra Lynn Walther/p12345/false
+zhu@usc.edu/Emily Zhu/asdf/false
+hmollica@usc.edu/Hailey Mollica/haileymollica/true
+emilyzhu@usc.edu/Emily Zhu/123/true
+kwalther@usc.edu/Kendra Walther/p123/true
+philyang@usc.edu/Phil Yang/qwerty/false
+jessiehe@usc.edu/Jessie He/jessie/false
+enmathur@usc.edu/usctrojans/Emily/false
+bachu@usc.edu/Varshi/p233w0rd/true
